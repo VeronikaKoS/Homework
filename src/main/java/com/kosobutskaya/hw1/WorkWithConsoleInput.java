@@ -1,4 +1,4 @@
-package com.kosobutskaya;
+package com.kosobutskaya.hw1;
 
 import java.util.Scanner; // импортируем класс Scaner из папки java.until
 

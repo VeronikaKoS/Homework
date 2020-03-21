@@ -1,8 +1,8 @@
-package com.kosobutskaya;
+package com.kosobutskaya.hw2;
 
 public class Color {
 
-    private static String[] COLOR_NAMES = new String[]{ // массив строк
+    private static String[] COLOR_NAMES = new String[]{ // массив строк (у массива неизменяемая длина)
             "красный", "оранжевый", "желтый", "зеленый", "голубой", "синий", "фиолетовый"
     };
 

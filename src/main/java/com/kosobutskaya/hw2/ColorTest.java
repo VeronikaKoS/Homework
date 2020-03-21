@@ -1,4 +1,6 @@
-package com.kosobutskaya;
+package com.kosobutskaya.hw2;
+
+import com.kosobutskaya.hw2.Color;
 
 public class ColorTest {
 

@@ -1,4 +1,4 @@
-package com.kosobutskaya;
+package com.kosobutskaya.classwork;
 
 public class Classwork {
 

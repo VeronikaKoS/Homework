@@ -1,4 +1,4 @@
-package com.kosobutskaya;
+package com.kosobutskaya.hw1;
 
 public class BinaryOperations {
 // описываем метод с именем function:

@@ -1,4 +1,4 @@
-package com.kosobutskaya;
+package com.kosobutskaya.classwork;
 
 import java.util.Arrays;
 import java.util.Random;
